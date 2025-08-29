@@ -11,7 +11,7 @@ Uma aplicação de e-commerce fictício feita como forma de um desafio do curso 
 </p>
 
 <p align="center">
-<img alt="" src="./github/thumbnail-ignite-shop-challenge.png" width="100%">
+<img alt="" src="./github/thumbnail-shop.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
