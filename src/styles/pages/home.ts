@@ -36,6 +36,8 @@ export const Product = styled("div", {
     justifyContent: "space-between",
     alignItems: "center",
 
+    lineHeight: "$short",
+
     padding: "2rem",
 
     borderRadius: 6,

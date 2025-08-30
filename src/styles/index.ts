@@ -29,5 +29,18 @@ export const {
       xl: "1.5rem",
       "2xl": "2rem",
     },
+
+    fontWeights: {
+      regular: "400",
+      medium: "500",
+      bold: "700",
+    },
+
+    lineHeights: {
+      shorter: "125%",
+      short: "140%",
+      base: "160%",
+      tall: "180%",
+    },
   },
 });
