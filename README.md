@@ -28,6 +28,6 @@ Este projeto foi feito como forma de um desafio dentro do curso de ReactJS no m�
 Nele pude consolidar os conhecimentos sobre:
 
 ### React
-- Integração HTTP (Fetch/Axios)
 - Next.js (SPA, SSR e SSG)
+- Integração HTTP (Fetch/Axios)
 - Stripe API
