@@ -1,4 +1,4 @@
-<h1 align="center"> Desafio - Ignite Shop </h1>
+<h1 align="center"> Desafio - Shop </h1>
 
 <p align= "center">
 Uma aplicação de e-commerce fictício feita como forma de um desafio do curso ReactJS da Rocketseat
@@ -28,6 +28,7 @@ Este projeto foi feito como forma de um desafio dentro do curso de ReactJS no m�
 Nele pude consolidar os conhecimentos sobre:
 
 ### React
+
 - Next.js (SPA, SSR e SSG)
 - Integração HTTP (Fetch/Axios)
 - Stripe API
